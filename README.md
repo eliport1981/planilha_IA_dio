@@ -1,4 +1,4 @@
-# Título do Projeto PLanilha inteligente para Controle Financeiro
+# Título do Projeto Planilha inteligente para controle financeiro
 
 ## 📒 Descrição
 Gerar planilha para controle de despesas financeiras como entrega do Desafio do Módulo do curso "CAIXA - IA Generativa com Microsoft Copilot""
