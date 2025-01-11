@@ -13,10 +13,12 @@ primeiro foi inserida a base da dados fornecida na planilha excel;
 depois incluída a aba de controle para criação das tabelas dinâmicas necessárias;
 finalmente, na aba de Controle Financeiro, a apresentação dos dados em dashboard para melhor visualização dos resultados esperados.
 
-##  Arquivos do projeto:
-base_dados_DIO.xls
-Desafio_DIO_financeiro.xls
+## 📚 Materiais
 
+- base de ddos DIO em `assets`
+- dashboard gerado em excel em `output`
+
+---
 ## 🚀 Resultados
 o resultado foi uma planilha inteligente para controle financeiro pessoal.
 
