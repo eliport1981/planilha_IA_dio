@@ -15,13 +15,12 @@ finalmente, na aba de Controle Financeiro, a apresentação dos dados em dashboa
 
 ## 📚 Materiais
 
-- base de ddos DIO em `assets`
-- dashboard gerado em excel em `output`
-
+- base de dados DIO 
+- dashboard gerado em excel 
 ---
 ## 🚀 Resultados
 o resultado foi uma planilha inteligente para controle financeiro pessoal.
 
-[Acesse a planilha gerada aqui](Feliz%20ano%20Caixa%202025.mp3)
+[Acesse a planilha gerada aqui](mp3)
 
 ## Criado por Elisiane Portela
