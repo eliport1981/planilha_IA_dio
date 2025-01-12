@@ -11,6 +11,7 @@ criação do dashboard a partir da planilha disponibilizada pela plataforma da D
 |---------------------------------------------------------------------------------|
 primeiro foi inserida a base da dados fornecida na planilha excel;
 depois incluída a aba de controle para criação das tabelas dinâmicas necessárias;
+criado uma aba de dados para a caixinha de reserva financeira
 finalmente, na aba de Controle Financeiro, a apresentação dos dados em dashboard para melhor visualização dos resultados esperados.
 
 ## 📚 Materiais
